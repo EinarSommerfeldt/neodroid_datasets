@@ -2,7 +2,7 @@
     "camera_angle_x": 1.099530045156148,
     "frames": [
         {
-            "file_path": "./val/IMG_1157",
+            "file_path": "./val/IMG_1157.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1247",
+            "file_path": "./val/IMG_1247.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1182",
+            "file_path": "./val/IMG_1182.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1220",
+            "file_path": "./val/IMG_1220.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -122,7 +122,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1161",
+            "file_path": "./val/IMG_1161.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1237",
+            "file_path": "./val/IMG_1237.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -182,7 +182,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1172",
+            "file_path": "./val/IMG_1172.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -212,7 +212,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1223",
+            "file_path": "./val/IMG_1223.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1231",
+            "file_path": "./val/IMG_1231.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -272,7 +272,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1233",
+            "file_path": "./val/IMG_1233.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -302,7 +302,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1217",
+            "file_path": "./val/IMG_1217.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -332,7 +332,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1241",
+            "file_path": "./val/IMG_1241.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1248",
+            "file_path": "./val/IMG_1248.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -392,7 +392,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1210",
+            "file_path": "./val/IMG_1210.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -422,7 +422,7 @@
             ]
         },
         {
-            "file_path": "./val/IMG_1205",
+            "file_path": "./val/IMG_1205.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [

@@ -2,7 +2,7 @@
     "camera_angle_x": 1.099530045156148,
     "frames": [
         {
-            "file_path": "./test/IMG_1226",
+            "file_path": "./test/IMG_1226.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1203",
+            "file_path": "./test/IMG_1203.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1250",
+            "file_path": "./test/IMG_1250.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1153",
+            "file_path": "./test/IMG_1153.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -122,7 +122,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1197",
+            "file_path": "./test/IMG_1197.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1181",
+            "file_path": "./test/IMG_1181.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -182,7 +182,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1164",
+            "file_path": "./test/IMG_1164.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -212,7 +212,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1252",
+            "file_path": "./test/IMG_1252.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1158",
+            "file_path": "./test/IMG_1158.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -272,7 +272,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1192",
+            "file_path": "./test/IMG_1192.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -302,7 +302,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1179",
+            "file_path": "./test/IMG_1179.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -332,7 +332,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1187",
+            "file_path": "./test/IMG_1187.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1249",
+            "file_path": "./test/IMG_1249.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -392,7 +392,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1253",
+            "file_path": "./test/IMG_1253.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -422,7 +422,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1163",
+            "file_path": "./test/IMG_1163.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -452,7 +452,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1190",
+            "file_path": "./test/IMG_1190.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -482,7 +482,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1216",
+            "file_path": "./test/IMG_1216.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -512,7 +512,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1156",
+            "file_path": "./test/IMG_1156.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -542,7 +542,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1186",
+            "file_path": "./test/IMG_1186.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -572,7 +572,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1218",
+            "file_path": "./test/IMG_1218.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -602,7 +602,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1228",
+            "file_path": "./test/IMG_1228.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -632,7 +632,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1235",
+            "file_path": "./test/IMG_1235.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -662,7 +662,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1189",
+            "file_path": "./test/IMG_1189.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -692,7 +692,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1212",
+            "file_path": "./test/IMG_1212.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -722,7 +722,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1175",
+            "file_path": "./test/IMG_1175.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -752,7 +752,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1155",
+            "file_path": "./test/IMG_1155.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -782,7 +782,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1206",
+            "file_path": "./test/IMG_1206.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -812,7 +812,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1183",
+            "file_path": "./test/IMG_1183.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -842,7 +842,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1201",
+            "file_path": "./test/IMG_1201.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -872,7 +872,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1204",
+            "file_path": "./test/IMG_1204.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -902,7 +902,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1255",
+            "file_path": "./test/IMG_1255.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -932,7 +932,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1169",
+            "file_path": "./test/IMG_1169.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -962,7 +962,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1178",
+            "file_path": "./test/IMG_1178.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -992,7 +992,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1239",
+            "file_path": "./test/IMG_1239.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1022,7 +1022,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1229",
+            "file_path": "./test/IMG_1229.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1052,7 +1052,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1214",
+            "file_path": "./test/IMG_1214.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1082,7 +1082,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1184",
+            "file_path": "./test/IMG_1184.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1112,7 +1112,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1213",
+            "file_path": "./test/IMG_1213.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1142,7 +1142,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1200",
+            "file_path": "./test/IMG_1200.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1172,7 +1172,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1174",
+            "file_path": "./test/IMG_1174.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1202,7 +1202,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1221",
+            "file_path": "./test/IMG_1221.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1232,7 +1232,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1159",
+            "file_path": "./test/IMG_1159.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1262,7 +1262,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1209",
+            "file_path": "./test/IMG_1209.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1292,7 +1292,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1246",
+            "file_path": "./test/IMG_1246.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1322,7 +1322,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1225",
+            "file_path": "./test/IMG_1225.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1352,7 +1352,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1243",
+            "file_path": "./test/IMG_1243.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1382,7 +1382,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1193",
+            "file_path": "./test/IMG_1193.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1412,7 +1412,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1224",
+            "file_path": "./test/IMG_1224.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1442,7 +1442,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1238",
+            "file_path": "./test/IMG_1238.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1472,7 +1472,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1173",
+            "file_path": "./test/IMG_1173.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1502,7 +1502,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1170",
+            "file_path": "./test/IMG_1170.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1532,7 +1532,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1171",
+            "file_path": "./test/IMG_1171.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1562,7 +1562,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1207",
+            "file_path": "./test/IMG_1207.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1592,7 +1592,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1180",
+            "file_path": "./test/IMG_1180.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1622,7 +1622,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1166",
+            "file_path": "./test/IMG_1166.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1652,7 +1652,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1245",
+            "file_path": "./test/IMG_1245.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1682,7 +1682,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1188",
+            "file_path": "./test/IMG_1188.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1712,7 +1712,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1185",
+            "file_path": "./test/IMG_1185.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1742,7 +1742,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1151",
+            "file_path": "./test/IMG_1151.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1772,7 +1772,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1232",
+            "file_path": "./test/IMG_1232.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1802,7 +1802,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1144",
+            "file_path": "./test/IMG_1144.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1832,7 +1832,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1176",
+            "file_path": "./test/IMG_1176.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1862,7 +1862,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1208",
+            "file_path": "./test/IMG_1208.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1892,7 +1892,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1202",
+            "file_path": "./test/IMG_1202.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1922,7 +1922,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1198",
+            "file_path": "./test/IMG_1198.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1952,7 +1952,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1211",
+            "file_path": "./test/IMG_1211.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -1982,7 +1982,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1167",
+            "file_path": "./test/IMG_1167.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -2012,7 +2012,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1149",
+            "file_path": "./test/IMG_1149.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -2042,7 +2042,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1240",
+            "file_path": "./test/IMG_1240.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -2072,7 +2072,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1199",
+            "file_path": "./test/IMG_1199.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -2102,7 +2102,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1152",
+            "file_path": "./test/IMG_1152.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -2132,7 +2132,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1219",
+            "file_path": "./test/IMG_1219.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -2162,7 +2162,7 @@
             ]
         },
         {
-            "file_path": "./test/IMG_1148",
+            "file_path": "./test/IMG_1148.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [

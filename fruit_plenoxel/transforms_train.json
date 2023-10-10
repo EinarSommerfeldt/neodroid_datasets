@@ -2,7 +2,7 @@
     "camera_angle_x": 1.099530045156148,
     "frames": [
         {
-            "file_path": "./train/IMG_1256",
+            "file_path": "./train/IMG_1256.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1145",
+            "file_path": "./train/IMG_1145.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1242",
+            "file_path": "./train/IMG_1242.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1147",
+            "file_path": "./train/IMG_1147.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -122,7 +122,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1215",
+            "file_path": "./train/IMG_1215.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1196",
+            "file_path": "./train/IMG_1196.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -182,7 +182,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1191",
+            "file_path": "./train/IMG_1191.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -212,7 +212,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1236",
+            "file_path": "./train/IMG_1236.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1154",
+            "file_path": "./train/IMG_1154.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -272,7 +272,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1222",
+            "file_path": "./train/IMG_1222.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -302,7 +302,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1165",
+            "file_path": "./train/IMG_1165.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -332,7 +332,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1194",
+            "file_path": "./train/IMG_1194.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1177",
+            "file_path": "./train/IMG_1177.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -392,7 +392,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1146",
+            "file_path": "./train/IMG_1146.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -422,7 +422,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1230",
+            "file_path": "./train/IMG_1230.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -452,7 +452,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1227",
+            "file_path": "./train/IMG_1227.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -482,7 +482,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1162",
+            "file_path": "./train/IMG_1162.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -512,7 +512,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1254",
+            "file_path": "./train/IMG_1254.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -542,7 +542,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1251",
+            "file_path": "./train/IMG_1251.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -572,7 +572,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1244",
+            "file_path": "./train/IMG_1244.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -602,7 +602,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1195",
+            "file_path": "./train/IMG_1195.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -632,7 +632,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1150",
+            "file_path": "./train/IMG_1150.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -662,7 +662,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1168",
+            "file_path": "./train/IMG_1168.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -692,7 +692,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1160",
+            "file_path": "./train/IMG_1160.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
@@ -722,7 +722,7 @@
             ]
         },
         {
-            "file_path": "./train/IMG_1234",
+            "file_path": "./train/IMG_1234.jpg",
             "rotation": 0,
             "transform_matrix": [
                 [
